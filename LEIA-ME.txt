@@ -1,0 +1,31 @@
+ATIVIDADE INTEGRADORA — FRONT-END
+Projeto: Aurora Ateliê (pequeno negócio fictício)
+
+ESTRUTURA
+- index.html: página inicial
+- produtos.html: catálogo demonstrativo
+- contato.html: história, valores e formulário de demonstração
+- css/style.css: estilos e adaptações responsivas
+- img/: pasta reservada para imagens locais, caso queira substituir imagens externas
+
+TECNOLOGIAS
+HTML5 semântico, CSS3 e Bootstrap 5.3.3 (navbar responsiva, grid, botões e componentes de formulário).
+As imagens e fontes usam serviços externos; é necessária conexão com a internet para carregá-los. Para funcionamento totalmente independente, baixe imagens de uso permitido para a pasta img/ e atualize os caminhos.
+
+COMO TESTAR
+1. Extraia o ZIP para uma pasta.
+2. Abra index.html no navegador. Para uma prévia mais fiel, use a extensão Live Server do Visual Studio Code.
+3. Teste os links do menu entre as três páginas.
+4. Redimensione o navegador para desktop, tablet e celular.
+5. Na página Sobre e contato, teste o formulário. Ele apenas mostra uma confirmação local; não envia nem armazena dados.
+
+HOSPEDAGEM
+Uma opção simples é GitHub Pages:
+1. Crie uma conta no GitHub, se necessário, e um repositório público.
+2. Envie todos os arquivos e pastas mantendo a estrutura.
+3. Em Settings > Pages, escolha a publicação a partir do branch principal (geralmente main) e da pasta raiz (/root).
+4. Salve e aguarde a URL pública. Abra a URL e teste todas as páginas.
+5. Coloque a URL real no documento de entrega. Não informe uma URL fictícia.
+
+IMPORTANTE
+Aurora Ateliê, endereço de e-mail e horário são fictícios. O formulário é apenas demonstrativo. Revise o projeto, personalize-o e confirme as regras da atividade com a professora/o professor antes da entrega.
